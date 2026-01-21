@@ -1,0 +1,55 @@
+image_id,image_path,mode,latency_ms,pred_caption,n_refs,metric_name,metric_value
+ac1.png,/home/sbiswas/jadu/school-project/school/images/ac1.png,fp16_cuda,405.38276500228676,A wall mounted air conditioner on a white wall.,1,SPICE,0.7272727272727272
+ac1.png,/home/sbiswas/jadu/school-project/school/images/ac1.png,int8_cuda,2295.383684002445,A picture of an air conditioner on a wall.,1,SPICE,0.5454545454545454
+ac2.png,/home/sbiswas/jadu/school-project/school/images/ac2.png,fp16_cuda,406.0953560001508,A wall mounted air conditioner on a wall.,1,SPICE,0.4000000000000001
+ac2.png,/home/sbiswas/jadu/school-project/school/images/ac2.png,int8_cuda,1818.5051500004192,A wall mounted air conditioner on a white wall.,1,SPICE,0.5454545454545454
+ac3.png,/home/sbiswas/jadu/school-project/school/images/ac3.png,fp16_cuda,298.5713220004982,A wall mounted air conditioner mounted to a wall.,1,SPICE,0.6666666666666665
+ac3.png,/home/sbiswas/jadu/school-project/school/images/ac3.png,int8_cuda,2225.0073249997513,A wall mounted air conditioner on a white wall.,1,SPICE,0.8
+bag1.png,/home/sbiswas/jadu/school-project/school/images/bag1.png,fp16_cuda,523.3208589997957,A red bag sitting on top of a table.,1,SPICE,0.5
+bag1.png,/home/sbiswas/jadu/school-project/school/images/bag1.png,int8_cuda,1949.6887549976236,A red bag sitting on top of a table.,1,SPICE,0.5
+bag2.png,/home/sbiswas/jadu/school-project/school/images/bag2.png,fp16_cuda,543.0750800005626,A small red bag sitting on top of a table.,1,SPICE,0.6666666666666666
+bag2.png,/home/sbiswas/jadu/school-project/school/images/bag2.png,int8_cuda,2012.5531869998667,A red bag sitting on top of a table.,1,SPICE,0.5
+bag3.png,/home/sbiswas/jadu/school-project/school/images/bag3.png,fp16_cuda,378.24715099850437,A small red bag sitting on top of a counter.,1,SPICE,0.6666666666666666
+bag3.png,/home/sbiswas/jadu/school-project/school/images/bag3.png,int8_cuda,1965.4252830005134,A red object sitting on top of a table.,1,SPICE,0.0
+bottle1.png,/home/sbiswas/jadu/school-project/school/images/bottle1.png,fp16_cuda,384.8788350005634,A bottle of water sitting on top of a tiled floor.,1,SPICE,0.36363636363636365
+bottle1.png,/home/sbiswas/jadu/school-project/school/images/bottle1.png,int8_cuda,2525.362614000187,A bottle of water sitting on the ground.,1,SPICE,0.4444444444444445
+bottle2.png,/home/sbiswas/jadu/school-project/school/images/bottle2.png,fp16_cuda,459.2350640014047,A bottle of water sitting on top of a table.,1,SPICE,0.6
+bottle2.png,/home/sbiswas/jadu/school-project/school/images/bottle2.png,int8_cuda,1786.4119859987113,A bottle of water sitting on top of a table.,1,SPICE,0.6
+bottle3.png,/home/sbiswas/jadu/school-project/school/images/bottle3.png,fp16_cuda,308.69439199886983,A bottle of water sitting on top of a table.,1,SPICE,0.6
+bottle3.png,/home/sbiswas/jadu/school-project/school/images/bottle3.png,int8_cuda,1815.2767569990829,A bottle of water sitting on top of a counter.,1,SPICE,0.4
+car1.png,/home/sbiswas/jadu/school-project/school/images/car1.png,fp16_cuda,325.21429599728435,A small toy car sitting on top of a black chair.,1,SPICE,0.5454545454545454
+car1.png,/home/sbiswas/jadu/school-project/school/images/car1.png,int8_cuda,2546.3953350008524,A yellow toy car sitting on top of a black table.,1,SPICE,0.18181818181818182
+car2.png,/home/sbiswas/jadu/school-project/school/images/car2.png,fp16_cuda,485.16796699914266,A black folding chair with a yellow toy car on it.,1,SPICE,0.5
+car2.png,/home/sbiswas/jadu/school-project/school/images/car2.png,int8_cuda,2285.5444390006596,A chair with a toy car on top of it.,1,SPICE,0.36363636363636365
+car3.png,/home/sbiswas/jadu/school-project/school/images/car3.png,fp16_cuda,497.8444389998913,A black folding chair with a toy car on it.,1,SPICE,0.5454545454545454
+car3.png,/home/sbiswas/jadu/school-project/school/images/car3.png,int8_cuda,1932.7432130012312,A black folding chair sitting on top of a wooden floor.,1,SPICE,0.36363636363636365
+cat1.png,/home/sbiswas/jadu/school-project/school/images/cat1.png,fp16_cuda,323.2090919991606,A small stuffed cat sitting on a black folding chair.,1,SPICE,0.5454545454545454
+cat1.png,/home/sbiswas/jadu/school-project/school/images/cat1.png,int8_cuda,1754.3235789999017,A stuffed animal sitting on top of a black chair.,1,SPICE,0.4
+cat2.png,/home/sbiswas/jadu/school-project/school/images/cat2.png,fp16_cuda,302.5870819983538,A small stuffed animal is sitting on a folding chair.,1,SPICE,0.2
+cat2.png,/home/sbiswas/jadu/school-project/school/images/cat2.png,int8_cuda,1757.6739329997508,A small stuffed animal sitting on top of a black chair.,1,SPICE,0.36363636363636365
+cat3.png,/home/sbiswas/jadu/school-project/school/images/cat3.png,fp16_cuda,316.11906699981773,A small stuffed animal sitting on top of a black chair.,1,SPICE,0.36363636363636365
+cat3.png,/home/sbiswas/jadu/school-project/school/images/cat3.png,int8_cuda,1684.251624999888,A cat sitting on top of a black chair.,1,SPICE,0.6666666666666665
+clock1.png,/home/sbiswas/jadu/school-project/school/images/clock1.png,fp16_cuda,297.1320319993538,A wooden clock hanging on a white wall.,1,SPICE,0.25
+clock1.png,/home/sbiswas/jadu/school-project/school/images/clock1.png,int8_cuda,1615.6670070013206,A clock that is on the side of a wall.,1,SPICE,0.28571428571428575
+clock2.png,/home/sbiswas/jadu/school-project/school/images/clock2.png,fp16_cuda,323.3516979998967,A wall clock hanging on a white wall.,1,SPICE,0.5
+clock2.png,/home/sbiswas/jadu/school-project/school/images/clock2.png,int8_cuda,1736.8065750015376,A grandfather clock hanging on a white wall.,1,SPICE,0.25
+clock3.png,/home/sbiswas/jadu/school-project/school/images/clock3.png,fp16_cuda,307.74235100034275,A wall clock hanging on a white wall.,1,SPICE,0.5
+clock3.png,/home/sbiswas/jadu/school-project/school/images/clock3.png,int8_cuda,1599.2629699976533,A grandfather clock sitting in a window sill.,1,SPICE,0.25
+flower1.png,/home/sbiswas/jadu/school-project/school/images/flower1.png,fp16_cuda,347.1250719994714,A vase with yellow flowers on a table.,1,SPICE,0.8
+flower1.png,/home/sbiswas/jadu/school-project/school/images/flower1.png,int8_cuda,2137.030560999847,A vase filled with yellow flowers on top of a table.,1,SPICE,0.5454545454545454
+flower2.png,/home/sbiswas/jadu/school-project/school/images/flower2.png,fp16_cuda,432.6851939986227,A vase of yellow flowers on a coffee table.,1,SPICE,0.5454545454545454
+flower2.png,/home/sbiswas/jadu/school-project/school/images/flower2.png,int8_cuda,1732.9664579992823,A vase of yellow flowers sitting on a table.,1,SPICE,0.6
+flower3.png,/home/sbiswas/jadu/school-project/school/images/flower3.png,fp16_cuda,369.07792500278447,A vase of yellow flowers sitting on top of a table.,1,SPICE,0.5454545454545454
+flower3.png,/home/sbiswas/jadu/school-project/school/images/flower3.png,int8_cuda,1901.9831930017972,A vase of yellow flowers sitting on top of a table.,1,SPICE,0.5454545454545454
+speaker1.png,/home/sbiswas/jadu/school-project/school/images/speaker1.png,fp16_cuda,235.54371900172555,portable speaker,1,SPICE,0.3333333333333333
+speaker1.png,/home/sbiswas/jadu/school-project/school/images/speaker1.png,int8_cuda,1999.6953509980813,A large black object sitting on top of a pile of dirt.,1,SPICE,0.0
+speaker2.png,/home/sbiswas/jadu/school-project/school/images/speaker2.png,fp16_cuda,309.4665040007385,A speaker sitting on top of a counter top.,1,SPICE,0.25
+speaker2.png,/home/sbiswas/jadu/school-project/school/images/speaker2.png,int8_cuda,1926.060197998595,A picture of a table with a black object on it.,1,SPICE,0.18181818181818182
+speaker3.png,/home/sbiswas/jadu/school-project/school/images/speaker3.png,fp16_cuda,384.8275809978077,A table with a box on top of it next to a rug.,1,SPICE,0.18181818181818182
+speaker3.png,/home/sbiswas/jadu/school-project/school/images/speaker3.png,int8_cuda,2536.4763680008764,The back of a car that is parked in a garage.,1,SPICE,0.0
+dog1.png,/home/sbiswas/jadu/school-project/school/images/dog1.png,fp16_cuda,350.3261790028773,A brown and white dog holding a stick in its mouth.,1,SPICE,0.7777777777777777
+dog1.png,/home/sbiswas/jadu/school-project/school/images/dog1.png,int8_cuda,1590.0134129988146,A dog with a stick in its mouth.,1,SPICE,0.5
+dog2.png,/home/sbiswas/jadu/school-project/school/images/dog2.png,fp16_cuda,380.0598429988895,A dog with a stick in its mouth running across a field.,1,SPICE,0.5555555555555556
+dog2.png,/home/sbiswas/jadu/school-project/school/images/dog2.png,int8_cuda,1817.5845929981733,A dog standing in the grass with a stick in its mouth.,1,SPICE,0.7777777777777777
+dog3.png,/home/sbiswas/jadu/school-project/school/images/dog3.png,fp16_cuda,364.63261900280486,A dog with a stick in its mouth running across a field.,1,SPICE,0.5555555555555556
+dog3.png,/home/sbiswas/jadu/school-project/school/images/dog3.png,int8_cuda,1808.609848998458,A dog with a stick in its mouth standing in the grass.,1,SPICE,0.3157894736842105
